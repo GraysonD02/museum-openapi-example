@@ -65,14 +65,14 @@
 					}
 				},
 				"url": {
-					"raw": "https://postman-echo.com/post3-change-to-another",
+					"raw": "https://postman-echo.com/post3-change-to-another333",
 					"protocol": "https",
 					"host": [
 						"postman-echo",
 						"com"
 					],
 					"path": [
-						"post3-change-to-another"
+						"post3-change-to-another333"
 					]
 				},
 				"description": "This is a POST request, submitting data to an API via the request body. This request submits JSON data, and the data is reflected in the response.\n\nA successful POST request typically returns a `200 OK` or `201 Created` response code."
